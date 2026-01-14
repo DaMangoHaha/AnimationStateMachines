@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 861f4e90bf162aa4ca34f2f1cc52e1e1
+guid: 784536bead889504796fd69dc921a19c
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -31,11 +31,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: ZavokIdle
+      name: ZavokPunch
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 300
+      lastFrame: 55
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
